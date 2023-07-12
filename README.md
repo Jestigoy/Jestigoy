@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Jestigoy
+- 👀 I’m interested in programming and video games.
+- 🌱 I’m currently learning how to code using Laravel.
+- 📫 You can reach me using my email: jestigoy13@gmail.com.
